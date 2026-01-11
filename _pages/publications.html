@@ -5,32 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Conference Publications
 
-
-
+1. Yaojie Hu, Qiang Zhou, Qihong Chen, Xiaopeng Li, Linbo Liu, Dejiao Zhang, **Amit Kachroo**, Talha Oz, Omer Tripp,
+**QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks.** Click
+[here](https://arxiv.org/pdf/2501.17167) to read.
+2. Raghunandan M. Rao, **Amit Kachroo**, Koushik A. Manjunatha, Morris Hsu, Rohit Kumar, **Sub-Resolution mmWave FMCW
+Radar-based Touch Localization using Deep Learning**, accepted in "IEEE VTC, Fall- 2024". Click
+[here](https://arxiv.org/abs/2408.03485) to read.
+3. **Amit Kachroo**, Sai Prashanth Chinnapalli, **Quantifying Uncertainty with Probabilistic Machine Learning Modeling
+in Wireless Sensing**, published in "IEEE CCNC, 2023". Click [here](https://arxiv.org/abs/2210.06416) to read.
+4. Halil Said Cankurtaran, **Amit Kachroo**, Wooyeol Choi, John O'Hara, Serhan Yarkan, Khalid A. Qaraqe, Mazen Omar
+Hasna, Sabit Ekin, **"Propeller Effects on mmWave UAV Channels: A Statistical and Empirical Modeling Study"**, Published
+in "IEEE BlackSeaCom, 2022". Click [here](https://ieeexplore.ieee.org/abstract/document/9858315) to read.
+5. Collin A. Thornton, **Amit Kachroo**, He Bai, Sabit Ekin, and Wooyeol Choi, **"De-embedding Motion Artifacts from
+Robotic Arm Assisted Propagation Measurements"**, accepted in "2021 IEEE Texas Symposium on Wireless and Microwave
+Circuits and Systems (WMCS)". Click [here](https://ieeexplore.ieee.org/abstract/document/9493296) to read.
+6. **Amit Kachroo**, Sabit Ekin, **"Impact of Secondary User Interference on Primary Network in Cognitive Radio
+Systems"**, published in "88th IEEE VTC conference, 26-31 August 2018, Chicago, USA". Click
+[here](https://arxiv.org/abs/1809.00446) to read.
+7. Nann Win, **Amit Kachroo**, Mehmet Kemal Ozdemir, **"Reduced-Rank Joint Estimation of DOA with Mutual Coupling"**,
+published in "26th IEEE Signal Processing and Communications Applications Conference, May 2018, Izmir, Turkey".
+8. Turhan S. Dervish, Caleb G. Teague, Fangyao Liu, Adam Coffey, **Amit kachroo**, Sabit Ekin, Jerzy S. Krasinski,
+**"Position at Response: A Novel highly Accurate and Low Cost Laser Positioning System"**, published in "ITELCON 2017,
+Istanbul, Turkey".
+9. **Amit Kachroo**, J Park, HW Kim, **"Channel assignment with transmission power optimization method for high
+throughput in multi-access point WLAN"**, published in "IEEE 2015 International Wireless Communications and Mobile
+Computing Conference (IWCMC), 314-319, 2015, Croatia". Click
+[here](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7289102&tag=1) to read.
+10. **Amit Kachroo**, Mehmet Kemal Ozdemir, Hatice Tekiner-Mogulkoc, **"Optimization of LTE Radio Resource Block
+Allocation for Maritime Channels"**, published in "37th IEEE Sarnoff Symposium 2016, Newark, USA". Click
+[here](http://ieeexplore.ieee.org/abstract/document/7846771/)
