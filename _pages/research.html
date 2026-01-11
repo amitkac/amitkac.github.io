@@ -1,11 +1,18 @@
 ---
-permalink: /
-title: "Agentic AI/LLM"
+layout: archive
+title: "research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
+
+{% include base_path %}
+{% assign sorted_research = site.research | sort: 'date' | reverse %}
+
+{% for post in sorted_research %}
+{% include archive-single.html %}
+{% endfor %}
+---
+Agentic AI for Code Transformation
+======
 
 - Build and develop Agentic AI for Amazon Q (Java code transformation). The architecture has dynamic workflow and
 utilizes generic and specialized tools for the Java code- transformation task. The entire system is in production.
