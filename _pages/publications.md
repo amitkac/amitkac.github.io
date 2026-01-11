@@ -1,6 +1,6 @@
 ---
 title: "Conference Publications"
-permalink: /publications/
+permalink: /
 author_profile: true
 redirect_from: 
   - /publications/
