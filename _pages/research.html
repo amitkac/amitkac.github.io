@@ -48,14 +48,7 @@ author_profile: true
     }
 
     .research-header {
-        margin-bottom: 0.5em;
-    }
-
-    .research-meta {
-        font-size: 0.9em;
-        color: #7a8288;
         margin-bottom: 1em;
-        margin-left: 2.5em;
     }
 
     .research-content {
@@ -89,8 +82,8 @@ author_profile: true
 </style>
 
 <p class="research-intro">
-    Below are several research directions I have pursued throughout my present work at AWS, Amazon Lab126, and during my
-    Ph.D.
+    Below are several research directions I have pursued throughout my work at AWS, Amazon Lab126, and during my Ph.D
+    studies.
 </p>
 
 {% assign research_items = site.research | reverse %}
@@ -101,18 +94,10 @@ author_profile: true
         <h2 class="research-title">{{ post.title }}</h2>
     </div>
 
-    <div class="research-meta">
-        {% if post.date %}
-        {{ post.date | date: "%B %Y" }}
-        {% endif %}
-        {% if post.venue %}
-        | {{ post.venue }}
-        {% endif %}
-    </div>
-
     <div class="research-content">
         {{ post.content }}
     </div>
+
 
 </div>
 {% endfor %}
