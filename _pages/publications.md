@@ -5,36 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
-    profile</a>.</div>
-{% endif %}
+Few selected conference and journal publications:
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-{% for category in site.publication_category %}
-{% assign title_shown = false %}
-{% for post in site.publications reversed %}
-{% if post.category != category[0] %}
-{% continue %}
-{% endif %}
-{% unless title_shown %}
-<h2>{{ category[1].title }}</h2>
-<hr />
-{% assign title_shown = true %}
-{% endunless %}
-{% include archive-single.html %}
-{% endfor %}
-{% endfor %}
-{% else %}
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
-{% endif %}
-
-<!-- Conference Publications
+Conference Publications
 ======
 
 1. Yaojie Hu, Qiang Zhou, Qihong Chen, Xiaopeng Li, Linbo Liu, Dejiao Zhang, **Amit Kachroo**, Talha Oz, Omer Tripp,
@@ -90,4 +63,4 @@ arrival with mutual coupling for coherent signals", published in "Transactions o
 Technologies, April 2019". Click here to read.
 7. HW Kim, **Amit Kachroo**, "Low Power Routing and Channel Allocation of Wireless Video Sensor Networks Using Wireless
 Link Utilization", published in "Ad Hoc and Sensor Wireless Networks, 30 (1-2), 83-112, 2016, New York, USA". Click here
-to read. -->
+to read.
