@@ -18,17 +18,37 @@ author_profile: true
         border-bottom: none;
     }
 
+    .research-number {
+        display: inline-block;
+        background-color: #52adc8;
+        color: white;
+        width: 2em;
+        height: 2em;
+        line-height: 2em;
+        text-align: center;
+        border-radius: 50%;
+        font-weight: bold;
+        margin-right: 0.5em;
+        vertical-align: middle;
+    }
+
     .research-title {
+        display: inline;
         font-size: 1.5em;
         font-weight: bold;
-        margin-bottom: 0.5em;
         color: #494e52;
+        vertical-align: middle;
+    }
+
+    .research-header {
+        margin-bottom: 0.5em;
     }
 
     .research-meta {
         font-size: 0.9em;
         color: #7a8288;
         margin-bottom: 1em;
+        margin-left: 2.5em;
     }
 
     .research-content {
@@ -59,29 +79,19 @@ author_profile: true
         color: #7a8288;
         margin-top: -1em;
     }
-
-    .research-links {
-        margin-top: 1em;
-    }
-
-    .research-links a {
-        margin-right: 1em;
-        color: #52adc8;
-        text-decoration: none;
-    }
-
-    .research-links a:hover {
-        text-decoration: underline;
-    }
 </style>
 
-{% for post in site.research reversed %}
+{% assign research_items = site.research | reverse %}
+{% for post in research_items %}
 <div class="research-item">
-    <h2 class="research-title">{{ post.title }}</h2>
+    <div class="research-header">
+        <span class="research-number">{{ forloop.index }}</span>
+        <h2 class="research-title">{{ post.title }}</h2>
+    </div>
 
     <div class="research-meta">
         {% if post.date %}
-        Published: {{ post.date | date: "%B %Y" }}
+        {{ post.date | date: "%B %Y" }}
         {% endif %}
         {% if post.venue %}
         | {{ post.venue }}
@@ -92,10 +102,6 @@ author_profile: true
         {{ post.content }}
     </div>
 
-    {% if post.paperurl %}
-    <div class="research-links">
-        <a href="{{ post.paperurl }}" target="_blank">Read the paper</a>
-    </div>
-    {% endif %}
+
 </div>
 {% endfor %}
