@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Senior Applied Scientist at **AWS Agentic AI science team**, where we are developing `Generative AI (GenAI)` and `Large Language Model (LLM)` solutions and tools for code transformation. I have hands-on experience in LLM Agent systems - Post-training with RL for code transformation, building orchestrators, tools, and developing guardrails to ensure the responsible and effective use of powerful LLM agents.
+I am a Senior Applied Scientist on the **AWS Agentic AI Science team**, where I work on developing advanced **Generative AI (GenAI)** and **Large Language Model (LLM)**–driven systems for code transformation. My work spans LLM agent architectures, including reinforcement‑learning–based post‑training for code transformation, orchestrator and tool design, and building robust guardrails that enable responsible and reliable use of powerful LLM agents.
 
-My expertise spans a diverse range of technical domains including `machine learning`, `deep learning`, `advanced signal processing`, `wireless communication`, `computer vision`, `time-series analysis`, and `radar/WiFi sensing technologies`. I have developed and deployed AI/ML solutions across multiple industries - from healthcare applications and IoT device localization to code generation and wireless sensing systems.
+My technical background covers a broad spectrum of domains: *machine learning, deep learning, advanced signal processing, wireless communication, computer vision, time‑series modeling, and radar/WiFi sensing*. I have designed and deployed AI/ML solutions across multiple industries—ranging from **healthcare, IoT localization, wireless sensing systems to code generation.**
 
-Prior to joining Amazon, I worked for approximately 6 years in multicultural and multi-ethnic workplaces across Asia, Europe, and America, gaining valuable experience in working at diverse environments.
+Before joining Amazon, I spent nearly six years working in multicultural, multi‑ethnic environments across Asia, Europe, and North America, gaining valuable experience collaborating in diverse global settings.
+
+---
 
 News/Announcements
 ======
@@ -40,19 +42,6 @@ Prime Video- pushing the boundaries of science and technology and Sustainability
 Education
 ======
 
-- **Ph.D., Electrical and Computer Engineering**  
-Oklahoma State University, Stillwater, Oklahoma, USA  
-2017 - 2021 | GPA: 4.0/4.0  
-
-  - Outstanding Graduate Student in ECE Department, 2020
-  - Leo and Josie Mosley Peters Scholarship, 2019-2020
-
-- **M.S., Electronics and Computer Engineering**  
-İstanbul Şehir University, Istanbul, Turkey  
-2015 - 2017 | GPA: 3.9/4.0
-
-- **B.Tech., Electronics and Communication Engineering**  
-National Institute of Technology (NIT) Srinagar, India
-2005 - 2009 | GPA: 9.13/10
-
-  - Merit position in ECE department
+▢ **Ph.D., Electrical and Computer Engineering**, Oklahoma State University,  USA  
+▢ **M.S., Electronics and Computer Engineering**, Istanbul Şehir University, Turkey  
+▢ **B.Tech., Electronics and Communication Engineering**,National Institute of Technology (NIT) Srinagar, India
