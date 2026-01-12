@@ -38,29 +38,30 @@ Computing Conference (IWCMC), 314-319, 2015, Croatia". Click
 [here](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7289102&tag=1) to read.
 10. **Amit Kachroo**, Mehmet Kemal Ozdemir, Hatice Tekiner-Mogulkoc, **"Optimization of LTE Radio Resource Block
 Allocation for Maritime Channels"**, published in "37th IEEE Sarnoff Symposium 2016, Newark, USA". Click
-[here](http://ieeexplore.ieee.org/abstract/document/7846771/)
+[here](http://ieeexplore.ieee.org/abstract/document/7846771/) to read.
+
+---
 
 Journal Publications
 ======
 
 1. **Amit Kachroo**, Collin A. Thornton, Md Arifur Rahman Sarker, Wooyeol Choi, He Bai, Ickhyun Song, John O'Hara, and
 Sabit Ekin, "Emulating UAV Motion by Utilizing Robotic Arm for mmWave Wireless Channel Characterization", published in
-"IEEE Transactions on Antennas and Propagation, 2021". Click here to read.
+"IEEE Transactions on Antennas and Propagation, 2021". Click [here](https://ieeexplore.ieee.org/document/9395358) to read.
 2. **Amit Kachroo**, Surbhi Vishwakarma, Jacob N Dixon, Hisham Abuella, Adithya Popuri, Qammer H Abbasi, Charles F
 Bunting, Jamey D Jacob, Sabit Ekin, "Ultra-wideband Channel Measurements and Modeling for Unmanned Aerial
 Vehicle-to-Wearables (UAV2W) Systems", published in "Autonomous Airborne Wireless Networks, Chapter 3, John Wiley &
-Sons, Ltd., July 2021". Click here to read.
+Sons, Ltd., July 2021". Click [here](https://onlinelibrary.wiley.com/doi/10.1002/9781119751717.ch3) to read.
 3. **Amit Kachroo**, Adithya Popuri, Mostafa Ibrahim, Ali Imran, Sabit Ekin, "Interference Spreading through Random
 Subcarrier Allocation Technique and Its Error Rate Performance in Cognitive Radio Networks", published in "MDPI Sensors,
-07-October-2020". Click here to read.
+07-October-2020". Click [here](https://www.mdpi.com/1424-8220/20/19/5700) to read.
 4. **Amit Kachroo**, S. Ekin, and A. Imran, “Statistical Modelling of Dynamic Interference Threshold and its Effect on
-Network Capacity”, published in "IEEE Transactions on Vehicular Technology, pp. 1–1, 2020".
+Network Capacity”, published in "IEEE Transactions on Vehicular Technology, pp. 1–1, 2020". Click [here](https://arxiv.org/abs/2003.02339) to read.
 5. **Amit Kachroo**, Surbhi Vishwakarma, Jacob N Dixon, Hisham Abuella, Adithya Popuri, Qammer H Abbasi, Charles F
 Bunting, Jamey D Jacob, Sabit Ekin, "Unmanned aerial vehicle-to-wearables (UAV2W) indoor radio propagation channel
-measurements and modeling", published in "IEEE Access, May 2019". Click here to read.
+measurements and modeling", published in "IEEE Access, May 2019". Click [here](https://ieeexplore.ieee.org/document/8726308) to read.
 6. Nann Win Moe Thet, **Amit Kachroo**, Mehmet Kemal Ozdemir, "Extended reduced‐rank joint estimation of direction of
 arrival with mutual coupling for coherent signals", published in "Transactions on Emerging Telecommunications
-Technologies, April 2019". Click here to read.
+Technologies, April 2019". Click [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3620) to read.
 7. HW Kim, **Amit Kachroo**, "Low Power Routing and Channel Allocation of Wireless Video Sensor Networks Using Wireless
-Link Utilization", published in "Ad Hoc and Sensor Wireless Networks, 30 (1-2), 83-112, 2016, New York, USA". Click here
-to read.
+Link Utilization", published in "Ad Hoc and Sensor Wireless Networks, 30 (1-2), 83-112, 2016, New York, USA". Click [here](http://www.oldcitypublishing.com/wp-content/uploads/2016/01/AHSWNv30n1-2p83-112Kim-open-access.pdf) to read.
