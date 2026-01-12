@@ -7,23 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Applied Scientist on the **AWS Agentic AI Science team**, where I work on developing advanced **Generative AI (GenAI)** and **Large Language Model (LLM)**–driven systems for code transformation. My work spans LLM agent architectures, including reinforcement‑learning–based post‑training for code transformation, orchestrator and tool design, and building robust guardrails that enable responsible and reliable use of powerful LLM agents.
+I am a Senior Applied Scientist on the **AWS Agentic AI Science team**, where I work at the forefront of ``Generative AI`` and Large Language Model development for code transformation. My current focus centers on designing LLM agent architectures—from ``reinforcement learning–based post-training methods that enhance code transformation capabilities, to building sophisticated orchestrators and tools that enable these agents to operate effectively``. A critical part of my work also involves developing robust guardrails that ensure these powerful systems behave responsibly and reliably in real-world applications.
 
-My technical background covers a broad spectrum of domains: *machine learning, deep learning, advanced signal processing, wireless communication, computer vision, time‑series modeling, and radar/WiFi sensing*. I have designed and deployed AI/ML solutions across multiple industries—ranging from **healthcare, IoT localization, wireless sensing systems to code generation.**
+What I bring to this role is a technical foundation that spans an unusually wide range of domains. Over the years, I have built deep expertise in ``machine learning, deep learning, advanced signal processing, computer vision, time-series modeling, and radar/WiFi sensing``. This breadth has allowed me to design and deploy AI/ML solutions across vastly different industries—from healthcare applications and IoT localization systems to wireless sensing platforms and, now, intelligent code generation. Each of these experiences has shaped how I approach complex problems, giving me the ability to draw connections across disciplines and adapt quickly to new technical challenges.
 
-Before joining Amazon, I spent nearly six years working in multicultural, multi‑ethnic environments across Asia, Europe, and North America, gaining valuable experience collaborating in diverse global settings.
+Beyond the technical dimension, I also bring a global perspective shaped by nearly six years of working in multicultural, multi-ethnic environments across Asia, Europe, and North America. This international exposure has been invaluable in teaching me how to collaborate effectively with diverse teams and navigate different working cultures—skills that complement my technical work and enrich how I contribute to large-scale, cross-functional projects
 
 ---
 
 Positions Held
 ======
 
-- **Senior Applied Scientist**, AWS, July 2025- Present
-- **Applied Scientist II**, AWS, April 2024- July 2025
-- **Applied Scientist II**, Amazon, Jan. 2021- April 2024
-- **Applied Scientist Intern**, Amazon, May 2020- Aug. 2020
-- **Software Intern**, Cadence Design Systems, May 2019- Aug. 2019
-- **Project Engineer**, Nokia Networks, Feb. 2010- Feb. 2014
+- Senior Applied Scientist, AWS, July 2025- Present
+- Applied Scientist II, AWS, April 2024- July 2025
+- Applied Scientist II, Amazon, Jan. 2021- April 2024
+- Applied Scientist Intern, Amazon, May 2020- Aug. 2020
+- Software Intern, Cadence Design Systems, May 2019- Aug. 2019
+- Project Engineer, Nokia Networks, Feb. 2010- Feb. 2014
 
 ---
 
