@@ -8,6 +8,13 @@ author_profile: true
 {% include base_path %}
 
 <style>
+    .research-intro {
+        font-size: 1.1em;
+        line-height: 1.6;
+        margin-bottom: 2.5em;
+        color: #494e52;
+    }
+
     .research-item {
         margin-bottom: 3em;
         padding-bottom: 2em;
@@ -65,9 +72,9 @@ author_profile: true
     }
 
     .research-content img {
-        max-width: 100%;
+        max-width: 70%;
         height: auto;
-        margin: 1.5em 0;
+        margin: 1.5em auto;
         border: 1px solid #e0e0e0;
         border-radius: 4px;
         display: block;
@@ -80,6 +87,11 @@ author_profile: true
         margin-top: -1em;
     }
 </style>
+
+<p class="research-intro">
+    Below are several research directions I have pursued throughout my present work at AWS, Amazon Lab126, and during my
+    Ph.D.
+</p>
 
 {% assign research_items = site.research | reverse %}
 {% for post in research_items %}
@@ -101,7 +113,6 @@ author_profile: true
     <div class="research-content">
         {{ post.content }}
     </div>
-
 
 </div>
 {% endfor %}
