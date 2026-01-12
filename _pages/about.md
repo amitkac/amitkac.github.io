@@ -15,6 +15,27 @@ Before joining Amazon, I spent nearly six years working in multicultural, multi�
 
 ---
 
+Positions Held
+======
+
+- **Senior Applied Scientist**, AWS, July 2025- Present
+- **Applied Scientist II**, AWS, April 2024- July 2025
+- **Applied Scientist II**, Amazon, Jan. 2021- April 2024
+- **Applied Scientist Intern**, Amazon, May 2020- Aug. 2020
+- **Software Intern**, Cadence Design Systems, May 2019- Aug. 2019
+- **Project Engineer**, Nokia Networks, Feb. 2010- Feb. 2014
+
+---
+
+Education
+======
+
+- **Ph.D.**, Electrical and Computer Engineering, Oklahoma State University,  USA  
+- **M.S.**, Electronics and Computer Engineering, Istanbul Şehir University, Turkey  
+- **B.Tech.**, Electronics and Communication Engineering, NIT Srinagar, India
+
+---
+
 News/Announcements
 ======
 
@@ -38,10 +59,3 @@ AWS AI- advancing the frontiers of machine learning.
 Automated reasoning- systems assurance by mathematical proof.
 Prime Video- pushing the boundaries of science and technology and Sustainability
 - [2022] I will be serving as a **TPC member** for IEEE Globecom Conference- ML in Communications and UAV communications tack.
-
-Education
-======
-
-- **Ph.D.**, Electrical and Computer Engineering, Oklahoma State University,  USA  
-- **M.S.**, Electronics and Computer Engineering, Istanbul Şehir University, Turkey  
-- **B.Tech.**, Electronics and Communication Engineering, NIT Srinagar, India
