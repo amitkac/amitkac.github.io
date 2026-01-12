@@ -1,6 +1,4 @@
-
 ---
-
 title: "AI/ML for On-Device Inference"
 collection: research
 permalink: /research/on-device-inference
