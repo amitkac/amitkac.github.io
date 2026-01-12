@@ -1,12 +1,9 @@
 ---
-title: "Mentoring"
+title: "Ph.D. Students"
 layout: archive
 permalink: /mentoring/
 author_profile: true
 ---
-
-Ph.D. Students
-======
 
 1. **Dr. Jungseock Joo (PI)** and **Dr. Khalid Javed's** Research Group at UCLA- Amazon Science Hub. Project: Multimodal
 Communicative Learning for Robot Navigation. Websites: 1, 2.

@@ -19,4 +19,4 @@ GenAI-powered Agent designed to generate Summary and Recommendation for complex 
 - [AWS Blog: Announcing Support for Upgrades to Java 21 in Amazon Q Developer](https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/)
 
 ![Agentic AI Architecture](/images/agentic ai_1.png)
-<p align="center">*Agentic Workflow Architecture*</p>
+<p align="center">Agentic Workflow Architecture</p>

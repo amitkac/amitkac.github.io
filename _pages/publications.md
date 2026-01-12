@@ -1,11 +1,20 @@
 ---
-title: "Publications"
+title: "IPs/Publications/Theses"
 layout: archive
 permalink: /publications/
 author_profile: true
 ---
 
-Few selected conference and journal publications:
+Selected IPs, conference papers, journal publications, and my Master’s and Ph.D. theses
+
+IPs
+======
+
+1. *System for touch interaction with non-touch screen display*, Patent number [12353638](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12353638)
+2. *Dynamic Memory Reallocation and Offload Wi-Fi CSI Processing for Device Power Savings*, Patent number: [11553416](https://patentcenter.uspto.gov/applications/17387719)
+3. *Channel state information (CSI) sensing in the 2.4 GHz band*, Patent number: [11616553](https://patentcenter.uspto.gov/applications/17387719),
+4. *Channel state information (CSI) sensing in the 2.4 GHz band*, Patent number: [11894902](https://patentcenter.uspto.gov/applications/18102011)
+5. 10+ patents submitted to US patent office during 2022-2024 period- updates shortly
 
 Conference Publications
 ======
@@ -65,3 +74,9 @@ arrival with mutual coupling for coherent signals", published in "Transactions o
 Technologies, April 2019". Click [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3620) to read.
 7. HW Kim, **Amit Kachroo**, "Low Power Routing and Channel Allocation of Wireless Video Sensor Networks Using Wireless
 Link Utilization", published in "Ad Hoc and Sensor Wireless Networks, 30 (1-2), 83-112, 2016, New York, USA". Click [here](http://www.oldcitypublishing.com/wp-content/uploads/2016/01/AHSWNv30n1-2p83-112Kim-open-access.pdf) to read.
+
+Theses/Dissertations
+======
+
+1. **Doctorate**: *Statistical analysis and channel modeling in next generation wireless communication systems*. Click [here](https://openresearch.okstate.edu/handle/20.500.14446/330827) to read.
+2. **Masters**: *Joint estimation of direction of arrival with unknown mutual coupling in massive Mimo networks and LTE radio resource block allocation optimization in maritime channels*.  Click [here](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=nhBY9ztZPFglvf4Ig3WpAA&no=8qJl00pV4qTdxiPRUluu7A) to read.
