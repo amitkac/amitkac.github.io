@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. **Dr. Jungseock Joo (PI)** and **Dr. Khalid Javed's** Research Group at UCLA- Amazon Science Hub. Project: Multimodal
-Communicative Learning for Robot Navigation. Websites: 1, 2.
+Communicative Learning for Robot Navigation. Websites: [1](https://www.jsjoo.com/), [2](https://structures.computer/).
 2. **Zhe Zhang**, Computer Science, UCLA- ARA program. Project: Towards Efficient and Reliable Probabilistic Inference.
 Research interests: artificial Intelligence and formal methods, probabilistic and formal verification techniques to deal
 with both uncertainty as well as relational structure, and to enable AI systems to efficiently and reliably learn and

@@ -1,15 +1,22 @@
 <!-- start custom footer snippets -->
 
-<a href="/sitemap/">Sitemap</a>
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
+    <div style="text-align: left;">
+        <a href="/sitemap/">Sitemap</a>
+    </div>
 
-<div style="text-align: center; margin: 20px 0;" <a href="https://info.flagcounter.com/lsRB"><img
-        src="https://s01.flagcounter.com/count2/lsRB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_9/viewers_0/labels_1/pageviews_0/flags_0/percent_0/"
-        alt="Flag Counter" border="0"></a>
+    <div style="text-align: right;">
+        <a href="https://info.flagcounter.com/lsRB"><img
+                src="https://s01.flagcounter.com/count2/lsRB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_9/viewers_0/labels_1/pageviews_0/flags_0/percent_0/"
+                alt="Flag Counter" border="0"></a>
+    </div>
 </div>
+
 
 <!-- Support for MatJax -->
 <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+
 
 <!-- Support for Mermaid -->
 <script type="module">
@@ -17,5 +24,6 @@
     mermaid.initialize({ startOnLoad: true, theme: 'default' });
     await mermaid.run({ querySelector: 'code.language-mermaid' });
 </script>
+
 
 <!-- end custom footer snippets -->
