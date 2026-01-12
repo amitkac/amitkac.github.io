@@ -42,6 +42,6 @@ Prime Video- pushing the boundaries of science and technology and Sustainability
 Education
 ======
 
-- **Ph.D., Electrical and Computer Engineering**, Oklahoma State University,  USA  
-- **M.S., Electronics and Computer Engineering**, Istanbul Şehir University, Turkey  
-- **B.Tech., Electronics and Communication Engineering**, NIT Srinagar, India
+- **Ph.D.**, Electrical and Computer Engineering, Oklahoma State University,  USA  
+- **M.S.**, Electronics and Computer Engineering, Istanbul Şehir University, Turkey  
+- **B.Tech.**, Electronics and Communication Engineering, NIT Srinagar, India

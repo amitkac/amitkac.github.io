@@ -68,7 +68,7 @@ Link Utilization", published in "Ad Hoc and Sensor Wireless Networks, 30 (1-2), 
 
 ---
 
-IPs
+Patents
 ======
 
 1. **System for touch interaction with non-touch screen display**, Patent number [12353638](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12353638)
