@@ -18,4 +18,4 @@ Empirical and Statistical Modelling of propagation channel measurements and char
 [Read the paper here](https://ieeexplore.ieee.org/document/8726308)
 
 ![UAV Assisted Communication](/images/uav.png)
-*UAV-to-Wearables Communication System*
+<p align="center">*UAV-to-Wearables Communication System*</p>

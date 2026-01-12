@@ -18,4 +18,4 @@ Develop ML systems with probabilistic modeling that can quantify uncertainty in 
 [Read the paper here](https://arxiv.org/abs/2210.06416)
 
 ![Uncertainty Quantification](/images/uncertainity.png)
-*Probabilistic Modeling Framework*
+<p align="center">*Probabilistic Modeling Framework*</p>

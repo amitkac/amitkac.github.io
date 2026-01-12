@@ -17,4 +17,4 @@ Sub-Resolution mmWave FMCW Radar-based Touch Localization using Deep Learning.
 [Read the paper here](https://arxiv.org/abs/2408.03485)
 
 ![AI/ML for On-Device Inference](/images/AI on-device.png)
-*On-Device AI/ML Architecture*
+<p align="center">*On-Device AI/ML Architecture*</p>
