@@ -1,14 +1,9 @@
 ---
-title: "Publications/IPs/Theses"
+title: "Conference Publications"
 layout: archive
 permalink: /publications/
 author_profile: true
 ---
-
-Selected conference papers, journal publications, IPs, and my Master’s and Ph.D. theses
-
-Conference Publications
-======
 
 1. Yaojie Hu, Qiang Zhou, Qihong Chen, Xiaopeng Li, Linbo Liu, Dejiao Zhang, **Amit Kachroo**, Talha Oz, Omer Tripp,
 **QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks.** Click
