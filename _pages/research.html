@@ -6,79 +6,96 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+<style>
+    .research-item {
+        margin-bottom: 3em;
+        padding-bottom: 2em;
+        border-bottom: 2px solid #f0f0f0;
+    }
+
+    .research-item:last-child {
+        border-bottom: none;
+    }
+
+    .research-title {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom: 0.5em;
+        color: #494e52;
+    }
+
+    .research-meta {
+        font-size: 0.9em;
+        color: #7a8288;
+        margin-bottom: 1em;
+    }
+
+    .research-content {
+        line-height: 1.6;
+        margin-bottom: 1em;
+    }
+
+    .research-content h2,
+    .research-content h3 {
+        font-size: 1.2em;
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+        color: #494e52;
+    }
+
+    .research-content img {
+        max-width: 100%;
+        height: auto;
+        margin: 1.5em 0;
+        border: 1px solid #e0e0e0;
+        border-radius: 4px;
+        display: block;
+    }
+
+    .research-content p:has(img)+p {
+        text-align: center;
+        font-style: italic;
+        color: #7a8288;
+        margin-top: -1em;
+    }
+
+    .research-links {
+        margin-top: 1em;
+    }
+
+    .research-links a {
+        margin-right: 1em;
+        color: #52adc8;
+        text-decoration: none;
+    }
+
+    .research-links a:hover {
+        text-decoration: underline;
+    }
+</style>
+
 {% for post in site.research reversed %}
-{% include archive-single.html %}
+<div class="research-item">
+    <h2 class="research-title">{{ post.title }}</h2>
+
+    <div class="research-meta">
+        {% if post.date %}
+        Published: {{ post.date | date: "%B %Y" }}
+        {% endif %}
+        {% if post.venue %}
+        | {{ post.venue }}
+        {% endif %}
+    </div>
+
+    <div class="research-content">
+        {{ post.content }}
+    </div>
+
+    {% if post.paperurl %}
+    <div class="research-links">
+        <a href="{{ post.paperurl }}" target="_blank">Read the paper</a>
+    </div>
+    {% endif %}
+</div>
 {% endfor %}
-
-<!-- Agentic AI for Code Transformation
-======
-
-- Build and develop Agentic AI for Amazon Q (Java code transformation). The architecture has dynamic workflow and
-utilizes generic and specialized tools for the Java code- transformation task. The entire system is in production.
-- Epilogue Summarizer Agent: GenAI-powered Agent designed to generate Summary and Recommendation for complex
-transformation projects. It acts as an expert developer, providing comprehensive, easy-to-read, and informative
-summaries of changes along with specific recommendations based on its analysis.
-- Article:
-[Forbes](https://www.forbes.com/sites/adrianbridgwater/2024/12/03/aws-extends-agentic-ai-capabilities-in-amazon-q-developer/),
-[Epilogue Agent](https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/)
-
-<figure class="half">
-    <img src="{{ '/images/agentic ai_1.png' | relative_url }}" alt="Agentic AI Architecture">
-    <figcaption>Agentic Workflow - reference 1, reference 2</figcaption>
-</figure>
-
----
-
-AI/ML for On-Device Inference
-======
-
-- Develop and implement AI/ML algorithm for on-device inference that can run with less latency and with high accuracy
-- Sub-Resolution mmWave FMCW Radar-based Touch Localization using Deep Learning. Details:
-[here](https://arxiv.org/abs/2408.03485)
-
-<figure class="half">
-    <img src="{{ '/images/AI on-device.png' | relative_url }}" alt="AI/ML for On-Device Inference">
-</figure>
-
----
-
-Uncertainty Quantification in AI/ML
-======
-
-- Develop ML systems with probabilistic modeling that can quantify uncertainty in Wireless sensing applications. The
-work serves as a template to model uncertainty in predictions not only for WiFi sensing but for most wireless sensing
-applications ranging from WiFi to millimeter wave radar based sensing that utilizes AI/ML models.
-- "Quantifying Uncertainty with Probabilistic Machine Learning Modeling in Wireless Sensing" published in "IEEE CCNC,
-2023". Click [here](https://arxiv.org/abs/2210.06416) to read
-
-<figure class="half">
-    <img src="{{ '/images/uncertainity.png' | relative_url }}" alt="Uncertainty Quantification">
-</figure>
-
----
-
-UAV Assisted Communication for Healthcare Monitoring
-======
-
-- Empirical and Statistical Modelling of propagation channel measurements and characterization for ultrawideband
-communication channel between UAV and wearable (UAVW) devices.
-- "Unmanned aerial vehicle-to-wearables (UAV2W) indoor radio propagation channel measurements and modeling", published
-in "IEEE Access, May 2019". Click [here](https://ieeexplore.ieee.org/document/8726308) to read.
-
-<figure class="half">
-    <img src="{{ '/images/uav.png' | relative_url }}" alt="UAV Assisted Communication">
-</figure>
-
----
-
-UAV Assisted mmWave Communication: 5G+
-======
-
-- Channel Modeling Emulator for UAV-assisted Wireless Communication: Use a robotic arm to mimic the motion of UAV in
-various weather conditions and characterize the impact of motion in the mmWave and THz channels.
-- "Emulating UAV Motion by Utilizing Robotic Arm for mmWave Wireless Channel Characterization", published in "IEEE
-Transactions on Antennas and Propagation, 2021". Click [here](https://ieeexplore.ieee.org/document/9395358) to read.
-
-<figure class="half">
-    <img src="{{ '/images/uav com.png' | relative_url }}" alt="UAV mmWave Communication">
-</figure> -->
