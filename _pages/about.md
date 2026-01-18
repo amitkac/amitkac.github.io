@@ -20,8 +20,8 @@ Positions Held
 
 - Senior Applied Scientist, AWS, July 2025- Present
 - Applied Scientist II, AWS, April 2024- July 2025
-- Applied Scientist II, Amazon, Jan. 2021- April 2024
-- Applied Scientist Intern, Amazon, May 2020- Aug. 2020
+- Applied Scientist II, Amazon Lab126, Jan. 2021- April 2024
+- Applied Scientist Intern, Amazon Lab126, May 2020- Aug. 2020
 - Software Intern, Cadence Design Systems, May 2019- Aug. 2019
 - Project Engineer, Nokia Networks, Feb. 2010- Feb. 2014
 

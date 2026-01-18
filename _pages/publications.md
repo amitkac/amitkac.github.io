@@ -79,3 +79,14 @@ Theses/Dissertations
 
 1. **Doctorate**: *Statistical analysis and channel modeling in next generation wireless communication systems*. Click [here](https://openresearch.okstate.edu/handle/20.500.14446/330827) to read.
 2. **Masters**: *Joint estimation of direction of arrival with unknown mutual coupling in massive Mimo networks and LTE radio resource block allocation optimization in maritime channels*.  Click [here](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=nhBY9ztZPFglvf4Ig3WpAA&no=8qJl00pV4qTdxiPRUluu7A) to read.
+
+---
+
+In News
+======
+
+1) [Amazon- Meet the Amazon Science Intern poster winners](https://www.amazon.science/academic-engagements/meet-the-amazon-science-intern-poster-session-winners)
+2) [Cadence- Intern Project](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/interns2019)
+3) [Oklahoma State University- Interview](https://news.okstate.edu/articles/engineering-architecture-technology/2020/two-electrical-and-computer-engineering-students-land-big-jobs-with-giant-companies.html)
+4) [Oklahoma State University- Outstanding Graduate. Student Award](https://ceat.okstate.edu/site-files/docs/hightlights_may2020_updated.pdf)
+5) [Nokia networks- Interview with Silicon India](https://www.siliconindia.com/profiles/amit-kachroo-UDb0pZv5.html)

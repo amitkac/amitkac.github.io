@@ -11,11 +11,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/  
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/  
 
   - title: "Advising/Mentoring"
     url: /mentoring/    

@@ -24,19 +24,19 @@ MS Students
 
 1. University of Washington Capstone project on "IoT Position Application for in-home Robots"
 
-- **Tsung-Hung Hsieh**, Electrical Engineering. Research Interests: Machine Learning application in Computer Vision and
-Natural Language Processing.
-- **Boyuan Yao**, Electrical and Computer Engineering. Research Interests: Robotics and deep learning.
-- **Rui Yan**, Electrical and Computer Engineering. Research Interests: Software development, specific in front-end design.
-- **Sushree Subhasmita Jena**, Electrical and Computer Engineering. Research Interests: HW/SW design.
-- **Chen Yam**, Electrical and Computer Engineering. Research Interests: Computer Vision and Robotics.
-- **Soumith Reddy Busireddy**, Electrical and Computer Engineering. Research Interests: wireless communication, signal
-processing, machine learning, and computer vision.
-- **Brindhaa VijayaRaghavan**, Electrical and Computer Engineering. Research Interests: AI/ML, Computer Vision
+    - **Tsung-Hung Hsieh**, Electrical Engineering. Research Interests: Machine Learning application in Computer Vision and
+    Natural Language Processing.
+    - **Boyuan Yao**, Electrical and Computer Engineering. Research Interests: Robotics and deep learning.
+    - **Rui Yan**, Electrical and Computer Engineering. Research Interests: Software development, specific in front-end design.
+    - **Sushree Subhasmita Jena**, Electrical and Computer Engineering. Research Interests: HW/SW design.
+    - **Chen Yam**, Electrical and Computer Engineering. Research Interests: Computer Vision and Robotics.
+    - **Soumith Reddy Busireddy**, Electrical and Computer Engineering. Research Interests: wireless communication, signal
+    processing, machine learning, and computer vision.
+    - **Brindhaa VijayaRaghavan**, Electrical and Computer Engineering. Research Interests: AI/ML, Computer Vision
 
-1. **Sahithi Madiraju**, Electrical Engineering, USC- Amazon Intern. Project on "RSSI based Proximity Detection using
+2. **Sahithi Madiraju**, Electrical Engineering, USC- Amazon Intern. Project on "RSSI based Proximity Detection using
 Bluetooth Low Energy". Research Interests: Wireless, AI/ML.
-2. **Vineet Rao**, Electrical and Computer Engineering, University of Michigan- Amazon Intern. Project on "Exercise
+3. **Vineet Rao**, Electrical and Computer Engineering, University of Michigan- Amazon Intern. Project on "Exercise
 Classification with Repetition Counting". Research Interests: Self-Supervised representational learning, leveraging
 multi-modal pretraining (particularly language supervised pretraining).
 
