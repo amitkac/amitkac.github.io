@@ -85,8 +85,8 @@ Theses/Dissertations
 In News
 ======
 
-1) [Amazon- Meet the Amazon Science Intern poster winners](https://www.amazon.science/academic-engagements/meet-the-amazon-science-intern-poster-session-winners)
-2) [Cadence- Intern Project](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/interns2019)
-3) [Oklahoma State University- Interview](https://news.okstate.edu/articles/engineering-architecture-technology/2020/two-electrical-and-computer-engineering-students-land-big-jobs-with-giant-companies.html)
-4) [Oklahoma State University- Outstanding Graduate. Student Award](https://ceat.okstate.edu/site-files/docs/hightlights_may2020_updated.pdf)
-5) [Nokia networks- Interview with Silicon India](https://www.siliconindia.com/profiles/amit-kachroo-UDb0pZv5.html)
+1. [Amazon- Meet the Amazon Science Intern poster winners](https://www.amazon.science/academic-engagements/meet-the-amazon-science-intern-poster-session-winners)
+2. [Cadence- Intern Project](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/interns2019)
+3. [Oklahoma State University- Interview](https://news.okstate.edu/articles/engineering-architecture-technology/2020/two-electrical-and-computer-engineering-students-land-big-jobs-with-giant-companies.html)
+4. [Oklahoma State University- Outstanding Graduate. Student Award](https://ceat.okstate.edu/site-files/docs/hightlights_may2020_updated.pdf)
+5. [Nokia networks- Interview with Silicon India](https://www.siliconindia.com/profiles/amit-kachroo-UDb0pZv5.html)
