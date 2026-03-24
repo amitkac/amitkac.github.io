@@ -39,6 +39,7 @@ Education
 News/Announcements
 ======
 
+- [03/24/2026] Patent issued from USPTO on, *Respiration Waveform Generation for Sleep Stage Estimation in a Contactless Manner using mmWave  Radar*. Click [here](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12582350) for more details.
 - [07/14/2025] Promoted to **Senior Applied Scientist**, AWS Agentic AI.
 - [07/08/2025] Patent issued from USPTO on, *"System for touch interaction with non-touch  screen display"*. Click [here](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12353638) for more details.
 - [2024] Our project with Agentic GenAI system for Java Code Migration is highlighted in [Forbes](https://www.forbes.com/sites/adrianbridgwater/2024/12/03/aws-extends-agentic-ai-capabilities-in-amazon-q-developer/).

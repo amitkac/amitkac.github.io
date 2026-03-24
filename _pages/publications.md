@@ -67,11 +67,12 @@ Link Utilization", published in "Ad Hoc and Sensor Wireless Networks, 30 (1-2), 
 Patents
 ======
 
-1. **System for touch interaction with non-touch screen display**, Patent number [12353638](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12353638)
-2. **Dynamic Memory Reallocation and Offload Wi-Fi CSI Processing for Device Power Savings**, Patent number: [11553416](https://patentcenter.uspto.gov/applications/17387719)
-3. **Channel state information (CSI) sensing in the 2.4 GHz band**, Patent number: [11616553](https://patentcenter.uspto.gov/applications/17387719),
-4. **Channel state information (CSI) sensing in the 2.4 GHz band**, Patent number: [11894902](https://patentcenter.uspto.gov/applications/18102011)
-5. **10+** patents submitted to US patent office during 2022-2024 period- updates shortly
+1. **Respiration Waveform Generation for Sleep Stage Estimation in a Contactless Manner using mmWave  Radar**, Patent number [12353638](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12582350)
+2. **System for touch interaction with non-touch screen display**, Patent number [12353638](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12353638)
+3. **Dynamic Memory Reallocation and Offload Wi-Fi CSI Processing for Device Power Savings**, Patent number: [11553416](https://patentcenter.uspto.gov/applications/17387719)
+4. **Channel state information (CSI) sensing in the 2.4 GHz band**, Patent number: [11616553](https://patentcenter.uspto.gov/applications/17387719),
+5. **Channel state information (CSI) sensing in the 2.4 GHz band**, Patent number: [11894902](https://patentcenter.uspto.gov/applications/18102011)
+6. **10+** patents submitted to US patent office during 2022-2024 period- updates shortly
 
 ---
 
