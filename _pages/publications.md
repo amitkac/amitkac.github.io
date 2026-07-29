@@ -87,8 +87,10 @@ Theses/Dissertations
 In News
 ======
 
-1. [Amazon- Meet the Amazon Science Intern poster winners](https://www.amazon.science/academic-engagements/meet-the-amazon-science-intern-poster-session-winners)
-2. [Cadence- Intern Project](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/interns2019)
-3. [Oklahoma State University- Interview](https://news.okstate.edu/articles/engineering-architecture-technology/2020/two-electrical-and-computer-engineering-students-land-big-jobs-with-giant-companies.html)
-4. [Oklahoma State University- Outstanding Graduate. Student Award](https://ceat.okstate.edu/site-files/docs/hightlights_may2020_updated.pdf)
-5. [Nokia networks- Interview with Silicon India](https://www.siliconindia.com/profiles/amit-kachroo-UDb0pZv5.html)
+1. [Generating Referentially Consistent Synthetic Test Data for PostgreSQL in .NET Application Modernization](https://aws.amazon.com/blogs/dotnet/generating-referentially-consistent-synthetic-test-data-for-postgresql-in-net-application-modernization/)
+2. [SQL Server to PostgreSQL Schema Validation** work](https://aws.amazon.com/blogs/dotnet/aws-transform-sql-server-to-postgresql-schema-validation-in-net-application-modernization/)
+3. [Amazon- Meet the Amazon Science Intern poster winners](https://www.amazon.science/academic-engagements/meet-the-amazon-science-intern-poster-session-winners)
+4. [Cadence- Intern Project](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/interns2019)
+5. [Oklahoma State University- Interview](https://news.okstate.edu/articles/engineering-architecture-technology/2020/two-electrical-and-computer-engineering-students-land-big-jobs-with-giant-companies.html)
+6. [Oklahoma State University- Outstanding Graduate. Student Award](https://ceat.okstate.edu/site-files/docs/hightlights_may2020_updated.pdf)
+7. [Nokia networks- Interview with Silicon India](https://www.siliconindia.com/profiles/amit-kachroo-UDb0pZv5.html)
