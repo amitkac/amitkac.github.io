@@ -38,7 +38,7 @@ Education
 News/Announcements
 ======
 
-- [09/09/2026] I'll be serving as a member of [program committe](https://conf.researchr.org/committee/recode27/recode-2027-papers-program-committee) in ReCode 2027 at ICSE 2027.
+- [09/09/2026] I'll be serving on the [Program Committee](https://conf.researchr.org/committee/recode27/recode-2027-papers-program-committee) for ReCode 2027, co-located with ICSE 2027.
 - [08/14/2026] Our paper on **Detecting Database Migration Non-equivalence through LLM-Assisted Mutation-Score-Guided Testing** is accepted in LMPL 2026. Click [here](https://conf.researchr.org/details/splash-issta-2026/lmpl-2026-papers/12/Detecting-Database-Migration-Non-equivalence-through-LLM-Assisted-Mutation-Score-Guid) for more details. 
 - [06/29/2026] Authored an AWS blog on **Generating Referentially Consistent Synthetic Test Data for PostgreSQL in .NET Application Modernization** work. Click [here](https://aws.amazon.com/blogs/dotnet/generating-referentially-consistent-synthetic-test-data-for-postgresql-in-net-application-modernization/) for more details.
 - [06/04/2026] Authored an AWS Blog on **SQL Server to PostgreSQL Schema Validation** work. Click [here](https://aws.amazon.com/blogs/dotnet/aws-transform-sql-server-to-postgresql-schema-validation-in-net-application-modernization/) for more details.
