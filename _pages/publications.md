@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Amazon Nova 2: Multimodal reasoning and generation models**. Click [here](https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models) to read.
+1. **Detecting Database Migration Non-equivalence through LLM-Assisted Mutation-Score-Guided Testing** is accepted at LMPL 2026. Click [here](https://conf.researchr.org/details/splash-issta-2026/lmpl-2026-papers/12/Detecting-Database-Migration-Non-equivalence-through-LLM-Assisted-Mutation-Score-Guid) for more details.
+2. **Amazon Nova 2: Multimodal reasoning and generation models**. Click [here](https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models) to read.
 2. Yaojie Hu, Qiang Zhou, Qihong Chen, Xiaopeng Li, Linbo Liu, Dejiao Zhang, **Amit Kachroo**, Talha Oz, Omer Tripp,
 **QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks.** Click
 [here](https://arxiv.org/pdf/2501.17167) to read.
@@ -87,7 +88,8 @@ Theses/Dissertations
 In News
 ======
 
-1. [Generating Referentially Consistent Synthetic Test Data for PostgreSQL in .NET Application Modernization](https://aws.amazon.com/blogs/dotnet/generating-referentially-consistent-synthetic-test-data-for-postgresql-in-net-application-modernization/)
+1. [Program Committe Member at ReCode 2027-ICSE](https://conf.researchr.org/committee/recode27/recode-2027-papers-program-committee)
+2. [Generating Referentially Consistent Synthetic Test Data for PostgreSQL in .NET Application Modernization](https://aws.amazon.com/blogs/dotnet/generating-referentially-consistent-synthetic-test-data-for-postgresql-in-net-application-modernization/)
 2. [SQL Server to PostgreSQL Schema Validation** work](https://aws.amazon.com/blogs/dotnet/aws-transform-sql-server-to-postgresql-schema-validation-in-net-application-modernization/)
 3. [Amazon- Meet the Amazon Science Intern poster winners](https://www.amazon.science/academic-engagements/meet-the-amazon-science-intern-poster-session-winners)
 4. [Cadence- Intern Project](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/interns2019)
