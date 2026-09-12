@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Detecting Database Migration Non-equivalence through LLM-Assisted Mutation-Score-Guided Testing** is accepted at LMPL 2026. Click [here](https://conf.researchr.org/details/splash-issta-2026/lmpl-2026-papers/12/Detecting-Database-Migration-Non-equivalence-through-LLM-Assisted-Mutation-Score-Guid) for more details.
+1. **Detecting Database Migration Non-equivalence through LLM-Assisted Mutation-Score-Guided Testing** is accepted at 2nd ACM SIGPLAN International Workshop on Language Models and Programming Languages, 2026. Click [here](https://conf.researchr.org/details/splash-issta-2026/lmpl-2026-papers/12/Detecting-Database-Migration-Non-equivalence-through-LLM-Assisted-Mutation-Score-Guid) for more details.
 2. **Amazon Nova 2: Multimodal reasoning and generation models**. Click [here](https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models) to read.
 2. Yaojie Hu, Qiang Zhou, Qihong Chen, Xiaopeng Li, Linbo Liu, Dejiao Zhang, **Amit Kachroo**, Talha Oz, Omer Tripp,
 **QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks.** Click
