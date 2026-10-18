@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. **Functionally Equivalent or Not? Graph-Grounded Differential Surrogate Execution for Code Equivalence** is accepted at NeurIPS 2026. Click [here](https://arxiv.org/abs/2610.04371) to read.
-2. *Source-Grounded Executable Evaluation of Software-Migration Agents** is accepted at NeurIPS 2026. Details soon.
+2. **Source-Grounded Executable Evaluation of Software-Migration Agents** is accepted at NeurIPS 2026. Details soon.
 2. **Detecting Database Migration Non-equivalence through LLM-Assisted Mutation-Score-Guided Testing** is accepted at 2nd ACM SIGPLAN International Workshop on Language Models and Programming Languages, 2026. Click [here](https://dl.acm.org/doi/epdf/10.1145/3843750.3843845) for more details.
 3. **Amazon Nova 2: Multimodal reasoning and generation models**. Click [here](https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models) to read.
 4. Yaojie Hu, Qiang Zhou, Qihong Chen, Xiaopeng Li, Linbo Liu, Dejiao Zhang, **Amit Kachroo**, Talha Oz, Omer Tripp,
