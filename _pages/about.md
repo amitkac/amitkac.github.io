@@ -6,19 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <p style="text-align: justify">
-I am a Senior Applied Scientist on the <strong>Amazon Agentic AI Science team</strong>, where I work at the forefront of Generative AI and Large Language Model development for code transformation. My current focus centers on designing LLM agent architectures—from <strong>reinforcement learning–based post-training methods that enhance code transformation capabilities, to building sophisticated orchestrators and tools that enable these agents to operate effectively</strong>. A critical part of my work also involves developing robust guardrails that ensure these powerful systems behave responsibly and reliably in real-world applications.
+I am a Senior Applied Scientist on the <strong>AWS Agentic AI Science team</strong>, building large-scale generative AI and large language model (LLM) services for <strong>AWS Transform</strong>. My work focuses on <strong>code transformation, modernization, and software migration</strong> to improve developer experience on AWS. This spans programming languages, databases, and platforms, including Java 8/11 to Java 17 migration, Microsoft SQL Server to PostgreSQL conversion, and Windows/.NET application modernization. I also lead and mentor a team of scientists, working with leadership to shape our product roadmap and define priorities for future scientific work.
 </p>
 
 <p style="text-align: justify">
-What I bring to this role is a technical foundation that spans an unusually wide range of domains. Over the years, I have built deep expertise in <strong>machine learning, deep learning, advanced signal processing, computer vision, time-series modeling, and radar/WiFi sensing</strong>. This breadth has allowed me to design and deploy AI/ML solutions across vastly different industries—from healthcare applications and IoT localization systems to wireless sensing platforms and, now, intelligent code generation. Each of these experiences has shaped how I approach complex problems, giving me the ability to draw connections across disciplines and adapt quickly to new technical challenges.
+A central part of my work is <strong>validation and verification of LLM-generated and transformed code</strong>. I develop methods to evaluate functional equivalence, detect behavioral differences, and assess correctness across application and database migrations. This includes executable evaluation, automated testing, and guardrails that help agents preserve intended behavior and produce dependable results. My experience also includes post-training Amazon LLMs using <strong>supervised fine-tuning (SFT) and reinforcement learning (RL)</strong> to improve code generation and transformation. I work on agent architectures, orchestration, and tools that enable these models to understand complex codebases, plan and execute transformations, and support reliable migrations in real-world applications.
 </p>
 
 <p style="text-align: justify">
-Beyond the technical dimension, I also bring a global perspective shaped by nearly six years of working in multicultural, multi-ethnic environments across Asia, Europe, and North America. This international exposure has been invaluable in teaching me how to collaborate effectively with diverse teams and navigate different working cultures—skills that complement my technical work and enrich how I contribute to large-scale, cross-functional projects.
+My broader technical background spans <strong>machine learning, deep learning, signal processing, computer vision, time-series modeling, and radar/WiFi sensing</strong>. I have developed AI/ML solutions for healthcare, IoT localization, wireless sensing, and code generation. These experiences continue to shape how I approach complex problems and work across disciplines.
 </p>
 
+<p style="text-align: justify">
+Before joining Amazon, I spent approximately six years working in multicultural environments across Asia, Europe, and North America. This experience continues to shape how I collaborate with diverse teams and contribute to cross-functional projects.
+</p>
 ---
 
 Positions Held
