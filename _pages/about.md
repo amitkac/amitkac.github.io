@@ -21,30 +21,35 @@ My broader technical background spans <strong>machine learning, deep learning, s
 <p style="text-align: justify">
 Before joining Amazon, I spent approximately six years working in multicultural environments across Asia, Europe, and North America. This experience continues to shape how I collaborate with diverse teams and contribute to cross-functional projects.
 </p>
----
 
-Positions Held
-======
+<style>
+  .home-section h2 { margin-top: 0.8em; border-bottom: 1px solid #eee; padding-bottom: 0.2em; }
+  .home-section ul { margin-top: 0.4em; }
+  .home-section li { margin-bottom: 0.35em; }
+  details.older-news summary { cursor: pointer; font-weight: bold; color: #52adc8; margin: 0.5em 0; }
+</style>
 
-- Senior Applied Scientist, Amazon, July 2025- Present
-- Applied Scientist II, Amazon, Jan. 2021- July 2025
-- Applied Scientist Intern, Amazon, May 2020- Aug. 2020
-- Software Intern, Cadence Design Systems, May 2019- Aug. 2019
-- Project Engineer, Nokia Networks, Feb. 2010- Feb. 2014
+<div class="home-section" markdown="1">
 
----
+## Positions Held
 
-Education
-======
+- Senior Applied Scientist, Amazon, July 2025 - Present
+- Applied Scientist II, Amazon, Jan. 2021 - July 2025
+- Applied Scientist Intern, Amazon, May 2020 - Aug. 2020
+- Software Intern, Cadence Design Systems, May 2019 - Aug. 2019
+- Project Engineer, Nokia Networks, Feb. 2010 - Feb. 2014
 
-- **Ph.D.**, Electrical and Computer Engineering, Oklahoma State University,  USA  
-- **M.S.**, Electronics and Computer Engineering, Istanbul Şehir University, Turkey  
+## Education
+
+- **Ph.D.**, Electrical and Computer Engineering, Oklahoma State University, USA
+- **M.S.**, Electronics and Computer Engineering, Istanbul Şehir University, Turkey
 - **B.Tech.**, Electronics and Communication Engineering, NIT Srinagar, India
 
----
+</div>
 
-News/Announcements
-======
+<div class="home-section" markdown="1">
+
+## News
 
 - [09/29/2026] Our paper on **Functionally Equivalent or Not? Graph-Grounded Differential Surrogate Execution for Code Equivalence** is accepted at NeurIPS 2026. Click [here](https://arxiv.org/abs/2610.04371) to read.
 - [09/29/2026] Our second paper on **Source-Grounded Executable Evaluation of Software-Migration Agents** is accepted at NeurIPS 2026.
@@ -54,6 +59,10 @@ News/Announcements
 - [06/04/2026] Authored an AWS Blog on **SQL Server to PostgreSQL Schema Validation** work. Click [here](https://aws.amazon.com/blogs/dotnet/aws-transform-sql-server-to-postgresql-schema-validation-in-net-application-modernization/) for more details.
 - [03/24/2026] Patent issued from USPTO on, *Respiration Waveform Generation for Sleep Stage Estimation in a Contactless Manner using mmWave  Radar*. Click [here](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12582350) for more details.
 - [07/14/2025] Promoted to **Senior Applied Scientist**, Amazon Agentic AI.
+
+<details class="older-news" markdown="1">
+<summary>Show older news</summary>
+
 - [07/08/2025] Patent issued from USPTO on, *"System for touch interaction with non-touch  screen display"*. Click [here](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12353638) for more details.
 - [2024] Our project with Agentic GenAI system for Java Code Migration is highlighted in [Forbes](https://www.forbes.com/sites/adrianbridgwater/2024/12/03/aws-extends-agentic-ai-capabilities-in-amazon-q-developer/).
 - [2024] Our paper on *"Sub-Resolution mmWave FMCW Radar-based Touch Localization using Deep Learning"* got accepted in IEEE-VTC Fall-2024. More details [here](https://arxiv.org/abs/2408.03485).
@@ -73,3 +82,6 @@ AWS AI- advancing the frontiers of machine learning.
 Automated reasoning- systems assurance by mathematical proof.
 Prime Video- pushing the boundaries of science and technology and Sustainability
 - [2022] I will be serving as a **TPC member** for IEEE Globecom Conference- ML in Communications and UAV communications tack.
+
+</details>
+</div>
