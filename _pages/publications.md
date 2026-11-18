@@ -90,6 +90,8 @@ Theses/Dissertations
 In News
 ======
 
+1. [Formal and Game-theoretic Testing for SQL Query Migration Validation](https://aws.amazon.com/blogs/modernizing-with-aws/formal-and-game-theoretic-testing-for-sql-query-migration-validation/)
+1. [Fine-tune SQL Server to Aurora PostgreSQL conversions with AWS Transform and Kiro](https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-sql-server-to-aurora-postgresql-modernization-with-aws-transform-and-kiro/)
 1. [Program Committe Member at ReCode 2027-ICSE](https://conf.researchr.org/committee/recode27/recode-2027-papers-program-committee)
 2. [Generating Referentially Consistent Synthetic Test Data for PostgreSQL in .NET Application Modernization](https://aws.amazon.com/blogs/dotnet/generating-referentially-consistent-synthetic-test-data-for-postgresql-in-net-application-modernization/)
 2. [SQL Server to PostgreSQL Schema Validation in .NET Application Modernization](https://aws.amazon.com/blogs/dotnet/aws-transform-sql-server-to-postgresql-schema-validation-in-net-application-modernization/)

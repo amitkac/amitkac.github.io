@@ -51,6 +51,8 @@ Before joining Amazon, I spent approximately six years working in multicultural 
 
 ## News
 
+- [11/17/2026] Authored an AWS blog on **Formal and Game-theoretic Testing for SQL Query Migration Validation**. Click [here](https://aws.amazon.com/blogs/modernizing-with-aws/formal-and-game-theoretic-testing-for-sql-query-migration-validation/) for more details.
+- [11/17/2026] Authored an AWS blog on **Fine-tune SQL Server to Aurora PostgreSQL conversions with AWS Transform and Kiro**. Click [here](https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-sql-server-to-aurora-postgresql-modernization-with-aws-transform-and-kiro/) for more details.
 - [09/29/2026] Our paper on **Functionally Equivalent or Not? Graph-Grounded Differential Surrogate Execution for Code Equivalence** is accepted at NeurIPS 2026. Click [here](https://arxiv.org/abs/2610.04371) to read.
 - [09/29/2026] Our second paper on **Source-Grounded Executable Evaluation of Software-Migration Agents** is accepted at NeurIPS 2026.
 - [09/09/2026] I'll be serving on the [Program Committee](https://conf.researchr.org/committee/recode27/recode-2027-papers-program-committee) for ReCode 2027, co-located with ICSE 2027.
