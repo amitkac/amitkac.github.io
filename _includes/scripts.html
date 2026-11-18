@@ -1,3 +1,15 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+
+<script>
+  // Open links to other sites in a new tab so the visitor keeps this page open
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href^="http"]').forEach(function (a) {
+      if (a.hostname !== window.location.hostname) {
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+      }
+    });
+  });
+</script>
